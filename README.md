@@ -20,16 +20,8 @@
 <!-- 
 ## 📈 Activity Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luisrances&theme=radical)  
-
----
-
-## 👀 Profile Info  
-![Views](https://komarev.com/ghpvc/?username=luisrances&color=brightgreen)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luisrances.luisrances)  
-
----
 -->
-## 🛠️ Tech & Tools   
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
