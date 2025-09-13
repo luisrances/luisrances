@@ -68,7 +68,6 @@
   <img src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel"/>
   <img src="https://img.shields.io/badge/Figma-Design-FF7262?logo=figma"/>
 </p>
-<br>
 
 <h2 align="center"></h2>
 
