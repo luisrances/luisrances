@@ -10,7 +10,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrances&layout=compact&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrances&layout=compact&theme=radical)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=luisrances&show_icons=true&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisrances&theme=radical)
 
