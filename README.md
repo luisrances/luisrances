@@ -46,7 +46,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=luisrances&theme=radical&margin-w=15&margin-h=15)  
 
 ---
-
+<!-- 
 ## 📈 Activity Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luisrances&theme=radical)  
 
@@ -57,34 +57,38 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luisrances.luisrances)  
 
 ---
-
+-->
 ## 🛠️ Tech & Tools  
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)  
-![Java](https://img.shields.io/badge/Java-Intermediate-red?logo=openjdk)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript)  
-![PHP](https://img.shields.io/badge/PHP-Laravel-purple?logo=laravel)  
-![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)  
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-Intermediate-red?logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-Laravel-purple?logo=laravel)
+![Flask](https://img.shields.io/badge/Flask-Framework-black?logo=flask)
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-Framework-61DAFB?logo=react)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green?logo=opencv)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-Database-07405E?logo=sqlite)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode)
+![Anaconda](https://img.shields.io/badge/Anaconda-Data_Science-44A833?logo=anaconda)
 
 ---
 
+<!-- 
 ## 💻 Coding & Productivity  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/luisrances?theme=dark&font=Karma&ext=activity)  
 ![Codewars](https://www.codewars.com/users/yourusername/badges/large)  
+-->
 
 ---
-
-## 🎉 Fun Zone  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-![Jokes](https://readme-jokes.vercel.app/api?theme=radical)  
+ 
 ![Snake animation](https://github.com/luisrances/luisrances/blob/output/github-contribution-grid-snake.svg)  
-
----
-
-## 📌 Featured Projects  
-[![Superworm Counter](https://github-readme-stats.vercel.app/api/pin/?username=luisrances&repo=superworm_website&theme=radical)](https://github.com/luisrances/superworm_website)  
-[![E-Commerce Bike Shop](https://github-readme-stats.vercel.app/api/pin/?username=luisrances&repo=bike_shop&theme=radical)](https://github.com/luisrances/bike_shop)  
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=luisrances&repo=portfolio&theme=radical)](https://github.com/luisrances/portfolio)  
 
 ---
 
