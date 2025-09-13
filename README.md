@@ -14,7 +14,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=luisrances&show_icons=true&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisrances&theme=radical)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=luisrances&theme=radical&margin-w=15&margin-h=15)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=luisrances&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)  
 
 ---
 <!-- 
