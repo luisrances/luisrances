@@ -1,32 +1,6 @@
 # Hi there, I'm Francis 👋  
 
 ## 🚀 About Me  
-- 💻 Full-Stack Developer with experience in **Laravel, Flask, React, Next.js, and TypeScript**  
-- 🤖 Background in **AI/ML, Computer Vision, and Data Analysis**  
-- 📱 Also dabbled in **mobile development** and PWA integration  
-- 🌱 Currently working on a **Superworm Counter App** with **CNN/Faster R-CNN image detection**  
-- 🎯 Goal: To build scalable, efficient, and user-friendly software solutions  
-
----
-
-## 🛠️ Tech Stack  
-**Languages**: Python, Java, JavaScript, TypeScript, PHP, SQL  
-**Frameworks**: Flask, Laravel, React, Next.js  
-**Databases**: MySQL, PostgreSQL, SQLite  
-**Tools**: Docker, Git, Anaconda, TensorFlow, OpenCV  
-
----
-
-## 📌 Featured Projects  
-🔹 [Superworm Counter App](https://github.com/your-repo) – Real-time object detection with Flask & TensorFlow  
-🔹 [E-Commerce Bike Shop](https://github.com/your-repo) – Full-stack Laravel + Flask system with admin panel  
-🔹 [Portfolio Website](https://github.com/your-repo) – Built with Next.js, Tailwind CSS, and HeroUI  
-
----
-
-# Hi there, I'm Francis 👋  
-
-## 🚀 About Me  
 - 💻 Full-Stack Developer (Laravel, Flask, React, Next.js, TypeScript)  
 - 🤖 Background in **AI/ML, Computer Vision, and Data Analysis**  
 - 📱 Some experience in **mobile development & PWA**  
@@ -36,13 +10,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=luisrances&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrances&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisrances&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrances&layout=compact&theme=radical) 
+![Stats](https://github-readme-stats.vercel.app/api?username=luisrances&show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisrances&theme=radical)
 
----
-
-## 🏆 Trophies  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=luisrances&theme=radical&margin-w=15&margin-h=15)  
 
 ---
@@ -100,19 +71,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/luisrances?theme=dark&font=Karma&ext=activity)  
 ![Codewars](https://www.codewars.com/users/yourusername/badges/large)  
 -->
-
----
- 
-![Snake animation](https://github.com/luisrances/luisrances/blob/output/github-contribution-grid-snake.svg)  
-
----
-
-## 🌐 Connect With Me  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- Portfolio: [Your Website](https://your-portfolio.com)  
-- Email: **youremail@example.com**  
-
-✨ Thanks for stopping by! ✨
 
 
 <!--
