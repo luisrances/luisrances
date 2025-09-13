@@ -6,9 +6,9 @@
 
 <br>
 <p align="center">
-  Hi, I'm Francis Luis
+  Hi, I'm Francis Luis College Student from Pasig, PH
   <br>
-  Full-Stack Developer | AI & ML Enthusiast | Data Analyst from the Philippines
+  ✨ Full-Stack Developer | AI & ML Enthusiast | Data Analyst ✨
   <br>
   Aspiring Full-Stack Developer with hands-on experience in web development, AI/ML, and data analysis
   <br>
@@ -25,6 +25,48 @@
   💬 Ask me anything about from <a href="https://github.com/luisrances/luisrances/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: francisluis.rances@gmail.com">francisluis.rances@gmail.com</a>
+</p>
+<br>
+
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VB.NET-5C2D91?logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HeroUI-00A98F?logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=FFD62E"/>
+  
+  <!-- AI & Data Science -->
+  <img src="https://img.shields.io/badge/TensorFlow-ML-orange?logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-ML-EE4C2C?logo=pytorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-green?logo=opencv"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-003B57?logo=python"/>
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Google_Colab-ML_Friendly-F9AB00?logo=googlecolab"/>
+  
+  <!-- Databases & DevOps -->
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-316192?logo=postgresql"/>
+  <img src="https://img.shields.io/badge/SQLite-Database-07405E?logo=sqlite"/>
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?logo=docker"/>
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Anaconda-Data_Science-44A833?logo=anaconda"/>
+  <img src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel"/>
+  <img src="https://img.shields.io/badge/Figma-Design-FF7262?logo=figma"/>
 </p>
 <br>
 
@@ -70,48 +112,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisrances&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f28b82&area=true&hide_border=true" width="100%"/>
 </p>
-<p align="center">
-  <!-- Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VB.NET-5C2D91?logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HeroUI-00A98F?logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=FFD62E"/>
-  
-  <!-- AI & Data Science -->
-  <img src="https://img.shields.io/badge/TensorFlow-ML-orange?logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/PyTorch-ML-EE4C2C?logo=pytorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-green?logo=opencv"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-003B57?logo=python"/>
-  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas"/>
-  <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter"/>
-  <img src="https://img.shields.io/badge/Google_Colab-ML_Friendly-F9AB00?logo=googlecolab"/>
-  
-  <!-- Databases & DevOps -->
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-316192?logo=postgresql"/>
-  <img src="https://img.shields.io/badge/SQLite-Database-07405E?logo=sqlite"/>
-  <img src="https://img.shields.io/badge/Docker-Container-2496ED?logo=docker"/>
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github"/>
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Anaconda-Data_Science-44A833?logo=anaconda"/>
-  <img src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel"/>
-  <img src="https://img.shields.io/badge/Figma-Design-FF7262?logo=figma"/>
-</p>
-
-<h2 align="center"></h2>
 
 <!-- 
 ## 💻 Coding & Productivity  
