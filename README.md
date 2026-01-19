@@ -97,9 +97,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luisrances&no-frame=true&show_icons=true&theme=transparent&hide_border=true" max-width="50%"/>
   <img src="https://streak-stats.demolab.com?user=luisrances&no-frame=true&theme=transparent&hide_border=true&mode=weekly)" max-width="50%"/>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luisrances&no-frame=true&no-bg=true&margin-w=15&margin-h=15" max-width="50%"/>
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrances&layout=compact&theme=transparent&hide_border=true"  width="30%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luisrances&theme=transparent&hide_border=true" width="30%"/>
