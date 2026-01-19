@@ -106,11 +106,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisrances&theme=transparent&hide_border=true" width="30%"/>
 </p>
 
-<h2 align="center"></h2>
+<!-- <h2 align="center"></h2> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisrances&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f28b82&area=true&hide_border=true" width="100%"/>
-</p>
+</p> -->
 
 <!-- 
 ## 💻 Coding & Productivity  
